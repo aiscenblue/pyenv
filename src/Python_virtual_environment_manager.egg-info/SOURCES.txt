@@ -1,0 +1,6 @@
+setup.py
+src/Python_virtual_environment_manager.egg-info/PKG-INFO
+src/Python_virtual_environment_manager.egg-info/SOURCES.txt
+src/Python_virtual_environment_manager.egg-info/dependency_links.txt
+src/Python_virtual_environment_manager.egg-info/top_level.txt
+src/virtual_env_manager/__init__.py
