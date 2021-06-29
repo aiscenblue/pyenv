@@ -1,14 +1,14 @@
 import setuptools
 
 setuptools.setup(
-    name="Python virtual environment manager",
-    version="0.0.2",
+    name="pyenv",
+    version="0.0.3",
     author="Jeffrey Marvin Forones",
     author_email="aiscenblue@gmail.com",
     description="Handles creation of virtual environment",
-    url="https://github.com/aiscenblue/python-virtual-env-manager",
+    url="https://github.com/aiscenblue/pyenv",
     project_urls={
-        "Bug Tracker": "https://github.com/aiscenblue/python-virtual-env-manager/issues",
+        "Bug Tracker": "https://github.com/aiscenblue/pyenv/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

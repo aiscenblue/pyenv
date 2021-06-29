@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import subprocess
 import os
 
@@ -56,23 +55,3 @@ def environment_value(key: str) -> str:
 
 def error_message(os_error: str, msg: str):
     print(f'{os_error}: {msg}')
-
-
-def install_package(name: str):
-    subprocess.call(["python3", "-m", " pip", "install", name])
-    main()
-
-
-def main(exit: bool):
-    if exit is False:
-        print("FORMAT: {action}:{name} -> name can be optional")
-        print("ACTIONS: create | activate | deactivate | show")
-        options(str(input("Input action: ")))
-    else:
-        message("DISCONNECTED")
-
-
-if __name__ == '__main__':
-    print("Welcome!")
-    main()
-

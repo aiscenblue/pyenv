@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: Python-virtual-environment-manager
-Version: 0.0.2
+Version: 0.0.3
 Summary: Handles creation of virtual environment
 Home-page: https://github.com/aiscenblue/python-virtual-env-manager
 Author: Jeffrey Marvin Forones
