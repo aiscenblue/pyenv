@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="pyenv",
-    version="0.0.3",
+    version="0.0.1",
     author="Jeffrey Marvin Forones",
     author_email="aiscenblue@gmail.com",
     description="Handles creation of virtual environment",

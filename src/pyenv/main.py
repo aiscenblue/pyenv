@@ -11,7 +11,7 @@ def main(exit: bool = False):
 
 
 if __name__ == '__main__':
-    print("Welcome!")
+    message("WELCOME to pyenv")
     main()
 
 
